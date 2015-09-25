@@ -1,0 +1,1 @@
+var hola=0,mundo=1;
